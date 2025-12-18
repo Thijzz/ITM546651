@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rewin\\Desktop\\Hbo-ICT\\Jaar 2 2026\\2026-2 Schizokwartiel\\Technisch beheer & Monitoring\\Eindopdracht\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj": {}
+    "C:\\Users\\rewin\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rewin\\Desktop\\Hbo-ICT\\Jaar 2 2026\\2026-2 Schizokwartiel\\Technisch beheer & Monitoring\\Eindopdracht\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj": {
+    "C:\\Users\\rewin\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rewin\\Desktop\\Hbo-ICT\\Jaar 2 2026\\2026-2 Schizokwartiel\\Technisch beheer & Monitoring\\Eindopdracht\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj",
+        "projectUniqueName": "C:\\Users\\rewin\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj",
         "projectName": "EasyDevOps546651",
-        "projectPath": "C:\\Users\\rewin\\Desktop\\Hbo-ICT\\Jaar 2 2026\\2026-2 Schizokwartiel\\Technisch beheer & Monitoring\\Eindopdracht\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj",
+        "projectPath": "C:\\Users\\rewin\\ITM546651\\Frontend\\EasyDevOps546651\\EasyDevOps546651.csproj",
         "packagesPath": "C:\\Users\\rewin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rewin\\Desktop\\Hbo-ICT\\Jaar 2 2026\\2026-2 Schizokwartiel\\Technisch beheer & Monitoring\\Eindopdracht\\ITM546651\\Frontend\\EasyDevOps546651\\obj\\",
+        "outputPath": "C:\\Users\\rewin\\ITM546651\\Frontend\\EasyDevOps546651\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rewin\\AppData\\Roaming\\NuGet\\NuGet.Config",
