@@ -12,3 +12,18 @@ C:\Users\rewin\Desktop\Hbo-ICT\Jaar 2 2026\2026-2 Schizokwartiel\Technisch behee
 C:\Users\rewin\Desktop\Hbo-ICT\Jaar 2 2026\2026-2 Schizokwartiel\Technisch beheer & Monitoring\Eindopdracht\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.pdb
 C:\Users\rewin\Desktop\Hbo-ICT\Jaar 2 2026\2026-2 Schizokwartiel\Technisch beheer & Monitoring\Eindopdracht\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.genruntimeconfig.cache
 C:\Users\rewin\Desktop\Hbo-ICT\Jaar 2 2026\2026-2 Schizokwartiel\Technisch beheer & Monitoring\Eindopdracht\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\ref\EasyDevOps546651.dll
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\bin\Debug\net10.0\EasyDevOps546651.exe
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\bin\Debug\net10.0\EasyDevOps546651.deps.json
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\bin\Debug\net10.0\EasyDevOps546651.runtimeconfig.json
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\bin\Debug\net10.0\EasyDevOps546651.dll
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\bin\Debug\net10.0\EasyDevOps546651.pdb
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.AssemblyInfoInputs.cache
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.AssemblyInfo.cs
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.csproj.CoreCompileInputs.cache
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.sourcelink.json
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.dll
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\refint\EasyDevOps546651.dll
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.pdb
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.genruntimeconfig.cache
+C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\ref\EasyDevOps546651.dll
