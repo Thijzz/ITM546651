@@ -24,4 +24,3 @@ if (Test-Path $frontendPath) {
     dotnet run
     Write-Host "Frontend is running..."
 } 
-test

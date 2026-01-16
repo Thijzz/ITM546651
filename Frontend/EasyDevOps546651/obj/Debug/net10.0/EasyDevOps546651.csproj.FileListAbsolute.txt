@@ -27,3 +27,4 @@ C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\refint\Easy
 C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.pdb
 C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.genruntimeconfig.cache
 C:\Users\rewin\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\ref\EasyDevOps546651.dll
+C:\Users\rewin\Desktop\Hbo-ICT\Jaar 2 2026\2026-2 Schizokwartiel\Technisch beheer & Monitoring\Eindopdracht\ITM546651\Frontend\EasyDevOps546651\obj\Debug\net10.0\EasyDevOps546651.sourcelink.json
