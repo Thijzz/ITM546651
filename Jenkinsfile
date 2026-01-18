@@ -5,7 +5,8 @@ pipeline {
         stage ('Security test') {
             steps {
                 echo 'Running security tests...'
-                bat 'npm audit --audit-level=high'
+                bat 'npm install'
+                bat 'npm audit --audit-level=medium'
             }
         }
         stage('Checkout') {
