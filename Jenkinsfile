@@ -2,31 +2,46 @@ pipeline {
     agent any
 
     stages {
-        stage ('Security test') {
-            steps {
-                echo 'Running security tests...'
-                bat 'npm install'
-                bat 'npm audit --audit-level=medium'
-            }
-        }
+
         stage('Checkout') {
             steps {
-                // Code ophalen van de repository
                 checkout scm
+            }
+        }
+
+        stage('Install Dependencies') {
+            steps {
+                dir('frontend') {
+                    bat 'npm install'
+                }
+            }
+        }
+
+        stage('Security Test') {
+            steps {
+                dir('frontend') {
+                    echo 'Running security tests...'
+                    bat 'npm audit --audit-level=high'
+                }
             }
         }
 
         stage('Build') {
             steps {
                 echo 'Building the project...'
- 
+                // Voeg hier je frontend build commando toe
+                dir('frontend') {
+                    bat 'dotnet build' // voorbeeld voor .NET frontend
+                }
             }
         }
 
         stage('Test') {
             steps {
                 echo 'Running tests...'
-  
+                dir('frontend') {
+                    bat 'dotnet test' // als je unit tests hebt
+                }
             }
         }
     }
