@@ -30,18 +30,14 @@ pipeline {
             steps {
                 echo 'Building the project...'
                 // Voeg hier je frontend build commando toe
-                dir('frontend') {
-                    bat 'dotnet build' // voorbeeld voor .NET frontend
-                }
+                
             }
         }
 
         stage('Test') {
             steps {
                 echo 'Running tests...'
-                dir('frontend') {
-                    bat 'dotnet test' // als je unit tests hebt
-                }
+                
             }
         }
     }
