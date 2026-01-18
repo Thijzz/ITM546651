@@ -5,8 +5,7 @@ pipeline {
         stage ('Security test') {
             steps {
                 echo 'Running security tests...'
-                bat 'npm audit --audit-level=high' || echo "No high severity vulnerabilities found."
-            }
+                bat 'npm audit --audit-level=high'
         }
         stage('Checkout') {
             steps {
